@@ -6,11 +6,12 @@ Ovejas
 |----------|-------------|----------|--------|
 | ESP32    | Microcontrolador con acceso a Wifi y Bluetooth| 1 | $140.00 |
 | cables Dupoint | Cables para conectar circuito | 50 | $60.00 |
+| Servos | dispositivo de movimeinto para la cabeza | $68.00 |
 
 ## Software utilizado
 | Nombre | Versión | Tipo |
 |--------|---------|------|
-| Thonny | 4.1.2 | Software Libre
+| Thonny | 4.1.2 | Software Libre |
 
 ## Prototipo en dibujo
 [personaje.jpg](https://github.com/Valeria-Gomez-Herrera/PersonajeIOT/blob/main/personaje.jpg)
