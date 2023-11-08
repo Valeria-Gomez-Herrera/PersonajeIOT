@@ -13,7 +13,7 @@ Ovejas
 | Thonny | 4.1.2 | Software Libre
 
 ## Prototipo en dibujo
-cargar una imagen con el dibujo del personaje
+personaje.jpg
 
 ## Comunicación 
 Describir como se comunica tu telefono con el dispositivo fabricado por tu equipo.
