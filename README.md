@@ -14,13 +14,13 @@ Ovejas
 | Thonny | 4.1.2 | Software Libre |
 
 ## Prototipo en dibujo
-[personaje.jpg](https://github.com/Valeria-Gomez-Herrera/PersonajeIOT/blob/main/personaje.jpg)
+https://github.com/Valeria-Gomez-Herrera/PersonajeIOT/blob/main/personaje.jpg
 
 ## Comunicación 
 Describir como se comunica tu telefono con el dispositivo fabricado por tu equipo.
 
 ## Arquitectura
-Imagen que contenga los domponentes utilizados, es decir microcontrolador, los actuadores, los sensores y acceso a datos.
+Imagen que contenga los componentes utilizados, es decir microcontrolador, los actuadores, los sensores y acceso a datos.
 
 ## Base de datos
 Gestor de base de datos (sql,etc), tabla o tablas.
