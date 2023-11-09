@@ -4,9 +4,10 @@ Ovejas
 ##Materiales Utilizados
 |  Nombre  | Descripción | Cantidad | Precio |
 |----------|-------------|----------|--------|
-| ESP32    | Microcontrolador con acceso a Wifi y Bluetooth| 1 | $140.00 |
+| ESP32    | Microcontrolador con acceso a Wifi y Bluetooth| 2 | $140.00 |
 | cables Dupoint | Cables para conectar circuito | 50 | $60.00 |
 | Servos | dispositivo de movimiento para la cabeza | 2 | $68.00 |
+| Buzzer | dispositivo para que la oveja hemita sonido | 2 | $80.00 |
 
 ## Software utilizado
 | Nombre | Versión | Tipo |
@@ -18,9 +19,13 @@ https://github.com/Valeria-Gomez-Herrera/PersonajeIOT/blob/main/personaje.jpg
 
 ## Comunicación 
 Describir como se comunica tu telefono con el dispositivo fabricado por tu equipo.
+Elaborar una aplicacion web que por medio de ella pueda hacer las peticiones de movimiento y sonido.
 
 ## Arquitectura
 Imagen que contenga los componentes utilizados, es decir microcontrolador, los actuadores, los sensores y acceso a datos.
 
 ## Base de datos
 Gestor de base de datos (sql,etc), tabla o tablas.
+Utilizar la base de datos MysSQL (Xampp)
+* Movimiento: Tabla para controlar el movimiento de la cabeza y el estado de ejecución (Pendiente, Ejecutado) y el ID.
+* Sonido: Tabla para controlar el sonido de la oveja, utilizando el ID y el valor del sonido. 
