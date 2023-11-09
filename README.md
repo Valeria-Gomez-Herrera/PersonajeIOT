@@ -26,4 +26,7 @@ Imagen que contenga los componentes utilizados, es decir microcontrolador, los a
 ## Base de datos
 Utilizar la base de datos MysSQL (Xampp)
 * Movimiento: Tabla para controlar el movimiento de la cabeza y el estado de ejecución (Pendiente, Ejecutado) y el ID.
-* Sonido: Tabla para controlar el sonido de la oveja, utilizando el ID y el valor del sonido. 
+* Sonido: Tabla para controlar el sonido de la oveja, utilizando el ID y el valor del sonido.
+## Integrantes
+* Gómez Herrera Valeria
+* Rangel Pérez Alejandro
