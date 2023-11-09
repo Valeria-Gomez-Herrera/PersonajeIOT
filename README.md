@@ -18,14 +18,12 @@ Ovejas
 https://github.com/Valeria-Gomez-Herrera/PersonajeIOT/blob/main/personaje.jpg
 
 ## Comunicación 
-Describir como se comunica tu telefono con el dispositivo fabricado por tu equipo.
 Elaborar una aplicacion web que por medio de ella pueda hacer las peticiones de movimiento y sonido.
 
 ## Arquitectura
 Imagen que contenga los componentes utilizados, es decir microcontrolador, los actuadores, los sensores y acceso a datos.
 
 ## Base de datos
-Gestor de base de datos (sql,etc), tabla o tablas.
 Utilizar la base de datos MysSQL (Xampp)
 * Movimiento: Tabla para controlar el movimiento de la cabeza y el estado de ejecución (Pendiente, Ejecutado) y el ID.
 * Sonido: Tabla para controlar el sonido de la oveja, utilizando el ID y el valor del sonido. 
