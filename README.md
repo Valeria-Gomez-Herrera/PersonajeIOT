@@ -1,7 +1,7 @@
 # PersonajeIOT
 ## Nombre del personaje
 Ovejas
-##Materiales Utilizados
+## Materiales Utilizados
 |  Nombre  | Descripción | Cantidad | Precio |
 |----------|-------------|----------|--------|
 | ESP32    | Microcontrolador con acceso a Wifi y Bluetooth| 2 | $140.00 |
