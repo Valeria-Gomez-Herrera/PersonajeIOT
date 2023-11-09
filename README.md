@@ -6,8 +6,8 @@ Ovejas
 |----------|-------------|----------|--------|
 | ESP32    | Microcontrolador con acceso a Wifi y Bluetooth| 2 | $140.00 |
 | cables Dupoint | Cables para conectar circuito | 50 | $60.00 |
-| Servos | dispositivo de movimiento para la cabeza | 2 | $68.00 |
-| Buzzer | dispositivo para que la oveja hemita sonido | 2 | $80.00 |
+| Servos | dispositivo de movimiento para la cabeza | 2 | $80.00 |
+| Buzzer | dispositivo para que la oveja hemita sonido | 2 | $5.00 |
 
 ## Software utilizado
 | Nombre | Versión | Tipo |
