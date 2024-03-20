@@ -29,4 +29,3 @@ Utilizar la base de datos MysSQL (Xampp)
 * Sonido: Tabla para controlar el sonido de la oveja, utilizando el ID y el valor del sonido.
 ## Integrantes
 * Gómez Herrera Valeria
-* Rangel Pérez Alejandro
